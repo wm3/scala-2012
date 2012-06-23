@@ -1,2 +1,6 @@
+.DS_Store
+.*.sw?
+*~
+
 target
 project/target
